@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LTI MFA</string>
+    <string name="new_app_name">iSHIELD</string>
+    <string name="title_lti">LTI</string>
+    <string name="title_mfa">MFA</string>
+    <string name="text_mobile">Mobile No</string>
+    <string name="text_Pass">Password</string>
+    <string name="btn_login">Sign In</string>
+    <string name="switch_otp">OTP</string>
+    <string name="switch_finger">Finger Print</string>
+    <string name="switch_iris">Iris Scan</string>
+    <string name="switch_face">Face Recog</string>
+    <string name="title_welcome">Welcome</string>
+    <string name="title_user_name"></string>
+    <string name="title_auth_message"></string>
+    <string name="title_auth_details"></string>
+    <string name="btn_auth">Authenticate</string>
+    <string name="text_otp">OTP</string>
+    <string name="button_otp">OTP Authentication   </string>
+    <string name="button_face">Face Recognition   </string>
+    <string name="button_iris">Iris Scan   </string>
+    <string name="button_finger">Finger Print   </string>
+</resources>
